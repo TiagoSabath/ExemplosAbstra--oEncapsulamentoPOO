@@ -1,0 +1,14 @@
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosAbstraçãoEncapsulamento\bin\Debug\net7.0\ExemplosAbstraçãoEncapsulamento.exe
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosAbstraçãoEncapsulamento\bin\Debug\net7.0\ExemplosAbstraçãoEncapsulamento.deps.json
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosAbstraçãoEncapsulamento\bin\Debug\net7.0\ExemplosAbstraçãoEncapsulamento.runtimeconfig.json
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosAbstraçãoEncapsulamento\bin\Debug\net7.0\ExemplosAbstraçãoEncapsulamento.dll
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosAbstraçãoEncapsulamento\bin\Debug\net7.0\ExemplosAbstraçãoEncapsulamento.pdb
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosAbstraçãoEncapsulamento\obj\Debug\net7.0\ExemplosAbstraçãoEncapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosAbstraçãoEncapsulamento\obj\Debug\net7.0\ExemplosAbstraçãoEncapsulamento.AssemblyInfoInputs.cache
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosAbstraçãoEncapsulamento\obj\Debug\net7.0\ExemplosAbstraçãoEncapsulamento.AssemblyInfo.cs
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosAbstraçãoEncapsulamento\obj\Debug\net7.0\ExemplosAbstraçãoEncapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosAbstraçãoEncapsulamento\obj\Debug\net7.0\ExemplosAbstraçãoEncapsulamento.dll
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosAbstraçãoEncapsulamento\obj\Debug\net7.0\refint\ExemplosAbstraçãoEncapsulamento.dll
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosAbstraçãoEncapsulamento\obj\Debug\net7.0\ExemplosAbstraçãoEncapsulamento.pdb
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosAbstraçãoEncapsulamento\obj\Debug\net7.0\ExemplosAbstraçãoEncapsulamento.genruntimeconfig.cache
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosAbstraçãoEncapsulamento\obj\Debug\net7.0\ref\ExemplosAbstraçãoEncapsulamento.dll
